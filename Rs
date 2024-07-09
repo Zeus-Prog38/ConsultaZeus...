@@ -1,0 +1,181 @@
+# Tool by: kazovsky
+
+from time import sleep
+import os
+from termcolor import colored
+
+sleep(0.64)
+os.system("clear")
+sleep(0.35)
+
+print("iniciando")
+sleep(0.35)
+os.system("clear")
+print("iniciando.")
+sleep(0.35)
+os.system("clear")
+print("iniciando..")
+sleep(0.35)
+os.system("clear")
+print("iniciando...")
+sleep(0.35)
+os.system("clear")
+print("iniciando")
+sleep(0.35)
+os.system("clear")
+print("iniciando.")
+sleep(0.35)
+os.system("clear")
+print("iniciando..")
+sleep(0.35)
+os.system("clear")
+print("iniciando...")
+sleep(0.35)
+os.system("clear")
+print("iniciando")
+sleep(0.35)
+os.system("clear")
+print("iniciando.")
+sleep(0.35)
+os.system("clear")
+print("iniciando..")
+sleep(0.35)
+os.system("clear")
+print("iniciando...")
+sleep(0.35)
+os.system("clear")
+print("iniciando")
+sleep(0.35)
+os.system("clear")
+print("iniciando.")
+sleep(0.35)
+os.system("clear")
+print("iniciando..")
+sleep(0.35)
+os.system("clear")
+print("iniciando...")
+sleep(1.1)
+os.system("clear")
+
+ascii_art = """
+
+                           ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░▓████████████████████████▒░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░▓█████▓▒░░░░░░░░░░░░░░░▒██████▒░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░████▒░░░░░░░░░░░░░░░░░░░░░░░░░▓███▒░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░███░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░▒██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒██░░░░░░░░░░░░░░
+░░░░░░░░░░░░▒██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██░░░░░░░░░░░░░
+░░░░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██░░░░░░░░░░░░
+░░░░░░░░░░░██▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒░░██░░░░░░░░░░░░
+░░░░░░░░░░░██░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██░░██░░░░░░░░░░░
+░░░░░░░░░░░██░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██░░██░░░░░░░░░░░
+░░░░░░░░░░░██░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██░░██░░░░░░░░░░░
+░░░░░░░░░░░██▒░██▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██▓░▒██░░░░░░░░░░░
+░░░░░░░░░░░░██░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██░░██░░░░░░░░░░░░
+░░░░░░░░░░░░██▒░██░░░░░▒▒▓███▒░░░░░░░▒███▓▒▒░░░░░██░▓██░░░░░░░░░░░░
+░░░░░░░░░░░░░██░██░░██████████▒░░░░░▓██████████░░██▒██░░░░░░░░░░░░░
+░░░░░░░░░░░░░░████░████████████░░░░░████████████░████░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░███░▒██████████░░░░░░░██████████▒░██▒░░░░░░░░░▒░░░░░
+░░░▒████░░░░░░░▓█▒░░█████████░░░░░░░░░█████████░░▒█▓░░░░░░▓████░░░░
+░░░██░▒██▒░░░░░██░░░░██████▓░░░░█░█░░░░███████░░░░██░░░░░███░░██░░░
+░░░██░░░██▓░░░░██░░░░░░▒▓▓░░░░▒██░██░░░░░▓▓▒░░░░░▒██░░░░███░░░██░░░
+░▓██▒░░░░████▓░░██░░░░░░░░░░░░███░███░░░░░░░░░░░░██░░█████░░░░▓██▒░
+██▓░░░░░░░░▒████████▓░░░░░░░░████░███▓░░░░░░░▒▓████████░░░░░░░░░███
+██▓▒▓███▓░░░░░░▓████████▓░░░░████░███▓░░░░▓████████▓░░░░░░████▓▓███
+░███████████▒░░░░░░███████░░░░██░░░██░░░░██████▓░░░░░░▓███████████░
+░░░░░░░░░░▓█████░░░░██▓▓░██░░░░░░░░░░░░░██░█▒██░░░▒█████▓░░░░░░░░░░
+░░░░░░░░░░░░░▒█████▒▒█▓█░███▓▓▒▒▒▓▒▒▓▓▓███▒███░▓█████░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░▒████▒▓█▒▒█░█▒█░█░█▓█▒█▓░█░█████▒░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░██░░██▓█▓█▓█▒█▒█▓█▓████░▓█▓░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░▓████▓░▓█▓█░█▒█░█░█▒█▒███▒░██████░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░▓█████░░██░░░▒█████▓█▓█████▒░░░██░▒█████▓░░░░░░░░░░░░░
+░░░░▒██████████▓░░░░░███░░░░░░░░░░░░░░░░░░░██▒░░░░░▓██████████▒░░░░
+░░░░██░░░▓▓▓░░░░░░▒██████▓░░░░░░░░░░░░░░░███████▒░░░░░░▓▓▒░░▒██░░░░
+░░░░▓██░░░░░░░░▓████▓░░░█████▒░░░░░░▒▓█████░░░▓████▓░░░░░░░▒██▓░░░░
+░░░░░░███░░░░████▒░░░░░░░░▓█████████████▒░░░░░░░░▒████░░░░███░░░░░░
+░░░░░░░██░░░██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓██░░░██░░░░░░░
+░░░░░░░██▒▓██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒██▒▓██░░░░░░░
+░░░░░░░░████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░████░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+   
+"""
+print(ascii_art)
+print("")
+start = input(colored("Quem Você Quer encontrar? (by:zack): ", "yellow"))
+if start == start:
+    sleep(1.1)
+    print("")
+    print(colored(f"[*] https://www.instagram.com/{start}", "green"))
+    sleep(1.5)
+    print(colored(f"[*] https://github.com/{start}", "green"))
+    sleep(0.20)
+    print(colored(f"[*] https://www.reddit.com/user/{start}/", "green"))
+    sleep(0.20)
+    print(colored(f"[*] https://x.com/{start}", "green"))
+    sleep(0.20)
+    print(colored(f"[*] t.me/{start}", "green"))
+    sleep(0.20)
+    print(colored(f"[*] https://www.tiktok.com/@{start}", "green"))
+    sleep(0.20)
+    print(colored(f"[*] https://br.pinterest.com/{start}/", "green"))
+    sleep(0.20)
+    print(colored(f"[*] https://www.youtube.com/@{start}", "green"))
+    sleep(0.20)
+    print(colored(f"[*] https://www.duolingo.com/profile/{start}", "green"))
+    sleep(0.20)
+    print(colored(f"[*] https://www.linkedin.com/in/{start}", "green"))
+    sleep(0.20)
+    print(colored(f"[*] https://www.wattpad.com/user/{start}", "green"))
+    sleep(0.20)
+    print(colored(f"[*] https://www.bandlab.com/{start}", "green"))
+    sleep(0.20)
+    print(colored(f"[*] https://www.threads.net/@{start}", "green"))
+    
+sleep(0.75)
+print("")
+print(colored("[0] sair", "yellow"))
+print(colored("[99] voltar", "yellow"))
+print(colored("[100] criador", "yellow"))
+print("")
+select = input(colored("select: ", "yellow"))
+if select == "0":
+    txt1 = colored("[0]", "yellow")
+    txt2 = colored(" selecionado,", "green")
+    txt3 = colored(" você saiu do pequeno sherlock!", "red")
+    txts = txt1 + txt2 + txt3
+    sleep(0.90)
+    os.system("clear")
+    print(txts)
+    sleep(4.44)
+    os.system("clear")
+    quit
+    
+if select == "99":
+    v1 = colored("[99]", "yellow")
+    v2 = colored(" selecionado,", "green")
+    v3 = colored(" você voltará em breve!", "green")
+    print("")
+    print(v1 + v2 + v3)
+    sleep(3.33)
+    os.system("python ps.py")
+    
+if select == "100":
+    sleep(0.90)
+    os.system("clear")
+    a = colored("[100]", "yellow")
+    b = colored(" selecionado", "green")
+    print(a + b)
+    c1 = colored("YouTube: ", "red")
+    c2 = colored("Github: ", "cyan")
+    print("")
+    print(c1 + "https://www.youtube.com/@darkxproton")
+    print(c2 + "https://github.com/Darkx-drk")
+    print("")
+    sair = input(colored("aperte enter para sair: ", "yellow"))
+    if sair == sair:
+        os.system("clear")
+        quit
+        
+        
